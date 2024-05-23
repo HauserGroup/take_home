@@ -20,7 +20,7 @@ Feel free to work in whatever programming language you are comfortable with but 
 4. Briefly (a handful of sentences or so) comment on your findings. Is there a biological interpretation? Does anything stand out to you? What would your next steps be? 
 
 ### Deliverables
-Please return your code, setup files, and all outputs either as a GitHub repository or in a ZIP file. 
+Please return your code, setup files, and all outputs either as a GitHub repository or in a ZIP file (in this case, please send a separate email to confirm that we did in fact receive the file). 
 
 ### Images  
 ![Heatmap](score_heatmap.png)  
